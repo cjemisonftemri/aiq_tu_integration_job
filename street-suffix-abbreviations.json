@@ -1,0 +1,761 @@
+{
+  "ALY": [
+    "ALLEY",
+    "ALLEE",
+    "ALLY"
+  ],
+  "ANX": [
+    "ANEX",
+    "ANNEX",
+    "ANNX"
+  ],
+  "ARC": [
+    "ARCADE"
+  ],
+  "AVE": [
+    "AVENUE",
+    "AV",
+    "AVEN",
+    "AVENU",
+    "AVN",
+    "AVNUE"
+  ],
+  "BYU": [
+    "BAYOU",
+    "BAYOO"
+  ],
+  "BCH": [
+    "BEACH"
+  ],
+  "BND": [
+    "BEND"
+  ],
+  "BLF": [
+    "BLUFF",
+    "BLUF"
+  ],
+  "BLFS": [
+    "BLUFFS"
+  ],
+  "BTM": [
+    "BOTTOM",
+    "BOT",
+    "BOTTM"
+  ],
+  "BLVD": [
+    "BOULEVARD",
+    "BOUL",
+    "BOULV"
+  ],
+  "BR": [
+    "BRANCH",
+    "BRNCH"
+  ],
+  "BRG": [
+    "BRIDGE",
+    "BRDGE"
+  ],
+  "BRK": [
+    "BROOK"
+  ],
+  "BRKS": [
+    "BROOKS"
+  ],
+  "BG": [
+    "BURG"
+  ],
+  "BGS": [
+    "BURGS"
+  ],
+  "BYP": [
+    "BYPASS",
+    "BYPA",
+    "BYPAS",
+    "BYPS"
+  ],
+  "CP": [
+    "CAMP",
+    "CMP"
+  ],
+  "CYN": [
+    "CANYON",
+    "CANYN",
+    "CNYN"
+  ],
+  "CPE": [
+    "CAPE"
+  ],
+  "CSWY": [
+    "CAUSEWAY",
+    "CAUSWA"
+  ],
+  "CTR": [
+    "CENTER",
+    "CEN",
+    "CENT",
+    "CENTR",
+    "CENTRE",
+    "CNTER",
+    "CNTR"
+  ],
+  "CTRS": [
+    "CENTERS"
+  ],
+  "CIR": [
+    "CIRCLE",
+    "CIRC",
+    "CIRCL",
+    "CRCL",
+    "CRCLE"
+  ],
+  "CIRS": [
+    "CIRCLES"
+  ],
+  "CLF": [
+    "CLIFF"
+  ],
+  "CLFS": [
+    "CLIFFS"
+  ],
+  "CLB": [
+    "CLUB"
+  ],
+  "CMN": [
+    "COMMON"
+  ],
+  "CMNS": [
+    "COMMONS"
+  ],
+  "COR": [
+    "CORNER"
+  ],
+  "CORS": [
+    "CORNERS"
+  ],
+  "CRSE": [
+    "COURSE"
+  ],
+  "CT": [
+    "COURT"
+  ],
+  "CTS": [
+    "COURTS"
+  ],
+  "CV": [
+    "COVE"
+  ],
+  "CVS": [
+    "COVES"
+  ],
+  "CRK": [
+    "CREEK"
+  ],
+  "CRES": [
+    "CRESCENT",
+    "CRSENT",
+    "CRSNT"
+  ],
+  "CRST": [
+    "CREST"
+  ],
+  "XING": [
+    "CROSSING",
+    "CRSSNG"
+  ],
+  "XRD": [
+    "CROSSROAD"
+  ],
+  "XRDS": [
+    "CROSSROADS"
+  ],
+  "CURV": [
+    "CURVE"
+  ],
+  "DL": [
+    "DALE"
+  ],
+  "DM": [
+    "DAM"
+  ],
+  "DV": [
+    "DIVIDE",
+    "DIV",
+    "DVD"
+  ],
+  "DR": [
+    "DRIVE",
+    "DRIV",
+    "DRV"
+  ],
+  "DRS": [
+    "DRIVES"
+  ],
+  "EST": [
+    "ESTATE"
+  ],
+  "ESTS": [
+    "ESTATES"
+  ],
+  "EXPY": [
+    "EXPRESSWAY",
+    "EXP",
+    "EXPR",
+    "EXPRESS",
+    "EXPW"
+  ],
+  "EXT": [
+    "EXTENSION",
+    "EXTN",
+    "EXTNSN"
+  ],
+  "EXTS": [
+    "EXTENSIONS"
+  ],
+  "FLS": [
+    "FALLS"
+  ],
+  "FRY": [
+    "FERRY",
+    "FRRY"
+  ],
+  "FLD": [
+    "FIELD"
+  ],
+  "FLDS": [
+    "FIELDS"
+  ],
+  "FLT": [
+    "FLAT"
+  ],
+  "FLTS": [
+    "FLATS"
+  ],
+  "FRD": [
+    "FORD"
+  ],
+  "FRDS": [
+    "FORDS"
+  ],
+  "FRST": [
+    "FOREST",
+    "FORESTS"
+  ],
+  "FRG": [
+    "FORGE",
+    "FORG"
+  ],
+  "FRGS": [
+    "FORGES"
+  ],
+  "FRK": [
+    "FORK"
+  ],
+  "FRKS": [
+    "FORKS"
+  ],
+  "FT": [
+    "FORT",
+    "FRT"
+  ],
+  "FWY": [
+    "FREEWAY",
+    "FREEWY",
+    "FRWAY",
+    "FRWY"
+  ],
+  "GDN": [
+    "GARDEN",
+    "GARDN",
+    "GRDEN",
+    "GRDN"
+  ],
+  "GDNS": [
+    "GARDENS",
+    "GRDNS"
+  ],
+  "GTWY": [
+    "GATEWAY",
+    "GATEWY",
+    "GATWAY",
+    "GTWAY"
+  ],
+  "GLN": [
+    "GLEN"
+  ],
+  "GLNS": [
+    "GLENS"
+  ],
+  "GRN": [
+    "GREEN"
+  ],
+  "GRNS": [
+    "GREENS"
+  ],
+  "GRV": [
+    "GROVE",
+    "GROV"
+  ],
+  "GRVS": [
+    "GROVES"
+  ],
+  "HBR": [
+    "HARBOR",
+    "HARB",
+    "HARBR",
+    "HRBOR"
+  ],
+  "HBRS": [
+    "HARBORS"
+  ],
+  "HVN": [
+    "HAVEN"
+  ],
+  "HTS": [
+    "HEIGHTS",
+    "HT"
+  ],
+  "HWY": [
+    "HIGHWAY",
+    "HIGHWY",
+    "HIWAY",
+    "HIWY",
+    "HWAY"
+  ],
+  "HL": [
+    "HILL"
+  ],
+  "HLS": [
+    "HILLS"
+  ],
+  "HOLW": [
+    "HOLLOW",
+    "HLLW",
+    "HOLLOWS",
+    "HOLWS"
+  ],
+  "INLT": [
+    "INLET"
+  ],
+  "IS": [
+    "ISLAND",
+    "ISLND"
+  ],
+  "ISS": [
+    "ISLANDS",
+    "ISLNDS"
+  ],
+  "ISLE": [
+    "ISLES"
+  ],
+  "JCT": [
+    "JUNCTION",
+    "JCTION",
+    "JCTN",
+    "JUNCTN",
+    "JUNCTON"
+  ],
+  "JCTS": [
+    "JUNCTIONS",
+    "JCTNS"
+  ],
+  "KY": [
+    "KEY"
+  ],
+  "KYS": [
+    "KEYS"
+  ],
+  "KNL": [
+    "KNOLL",
+    "KNOL"
+  ],
+  "KNLS": [
+    "KNOLLS"
+  ],
+  "LK": [
+    "LAKE"
+  ],
+  "LKS": [
+    "LAKES"
+  ],
+  "LAND": [
+    "LAND"
+  ],
+  "LNDG": [
+    "LANDING",
+    "LNDNG"
+  ],
+  "LN": [
+    "LANE"
+  ],
+  "LGT": [
+    "LIGHT"
+  ],
+  "LGTS": [
+    "LIGHTS"
+  ],
+  "LF": [
+    "LOAF"
+  ],
+  "LCK": [
+    "LOCK"
+  ],
+  "LCKS": [
+    "LOCKS"
+  ],
+  "LDG": [
+    "LODGE",
+    "LDGE",
+    "LODG"
+  ],
+  "LOOP": [
+    "LOOPS"
+  ],
+  "MALL": [
+    "MALL"
+  ],
+  "MNR": [
+    "MANOR"
+  ],
+  "MNRS": [
+    "MANORS"
+  ],
+  "MDW": [
+    "MEADOW"
+  ],
+  "MDWS": [
+    "MEADOWS",
+    "MDW",
+    "MEDOWS"
+  ],
+  "MEWS": [
+    "MEWS"
+  ],
+  "ML": [
+    "MILL"
+  ],
+  "MLS": [
+    "MILLS"
+  ],
+  "MSN": [
+    "MISSION",
+    "MISSN",
+    "MSSN"
+  ],
+  "MTWY": [
+    "MOTORWAY"
+  ],
+  "MT": [
+    "MOUNT",
+    "MNT"
+  ],
+  "MTN": [
+    "MOUNTAIN",
+    "MNTAIN",
+    "MNTN",
+    "MOUNTIN",
+    "MTIN"
+  ],
+  "MTNS": [
+    "MOUNTAINS",
+    "MNTNS"
+  ],
+  "NCK": [
+    "NECK"
+  ],
+  "ORCH": [
+    "ORCHARD",
+    "ORCHRD"
+  ],
+  "OVAL": [
+    "OVL"
+  ],
+  "OPAS": [
+    "OVERPASS"
+  ],
+  "PARK": [
+    "PARKS"
+  ],
+  "PKWY": [
+    "PARKWAY",
+    "PARKWY",
+    "PKWAY",
+    "PKY",
+    "PARKWAYS",
+    "PKWYS"
+  ],
+  "PASS": [
+    "PASS"
+  ],
+  "PSGE": [
+    "PASSAGE"
+  ],
+  "PATH": [
+    "PATHS"
+  ],
+  "PIKE": [
+    "PIKES"
+  ],
+  "PNE": [
+    "PINE"
+  ],
+  "PNES": [
+    "PINES"
+  ],
+  "PL": [
+    "PLACE"
+  ],
+  "PLN": [
+    "PLAIN"
+  ],
+  "PLNS": [
+    "PLAINS"
+  ],
+  "PLZ": [
+    "PLAZA",
+    "PLZA"
+  ],
+  "PT": [
+    "POINT"
+  ],
+  "PTS": [
+    "POINTS"
+  ],
+  "PRT": [
+    "PORT"
+  ],
+  "PRTS": [
+    "PORTS"
+  ],
+  "PR": [
+    "PRAIRIE",
+    "PRR"
+  ],
+  "RADL": [
+    "RADIAL",
+    "RAD",
+    "RADIEL"
+  ],
+  "RAMP": [
+    "RAMP"
+  ],
+  "RNCH": [
+    "RANCH",
+    "RANCHES",
+    "RNCHS"
+  ],
+  "RPD": [
+    "RAPID"
+  ],
+  "RPDS": [
+    "RAPIDS"
+  ],
+  "RST": [
+    "REST"
+  ],
+  "RDG": [
+    "RIDGE",
+    "RDGE"
+  ],
+  "RDGS": [
+    "RIDGES"
+  ],
+  "RIV": [
+    "RIVER",
+    "RVR",
+    "RIVR"
+  ],
+  "RD": [
+    "ROAD"
+  ],
+  "RDS": [
+    "ROADS"
+  ],
+  "RTE": [
+    "ROUTE"
+  ],
+  "ROW": [
+    "ROW"
+  ],
+  "RUE": [
+    "RUE"
+  ],
+  "RUN": [
+    "RUN"
+  ],
+  "SHL": [
+    "SHOAL"
+  ],
+  "SHLS": [
+    "SHOALS"
+  ],
+  "SHR": [
+    "SHORE",
+    "SHOAR"
+  ],
+  "SHRS": [
+    "SHORES",
+    "SHOARS"
+  ],
+  "SKWY": [
+    "SKYWAY"
+  ],
+  "SPG": [
+    "SPRING",
+    "SPNG",
+    "SPRNG"
+  ],
+  "SPGS": [
+    "SPRINGS",
+    "SPNGS",
+    "SPRNGS"
+  ],
+  "SPUR": [
+    "SPURS"
+  ],
+  "SQ": [
+    "SQUARE",
+    "SQR",
+    "SQRE",
+    "SQU"
+  ],
+  "SQS": [
+    "SQUARES",
+    "SQRS"
+  ],
+  "STA": [
+    "STATION",
+    "STATN",
+    "STN"
+  ],
+  "STRA": [
+    "STRAVENUE",
+    "STRAV",
+    "STRAVEN",
+    "STRAVN",
+    "STRVN",
+    "STRVNUE"
+  ],
+  "STRM": [
+    "STREAM",
+    "STREME"
+  ],
+  "ST": [
+    "STREET",
+    "STRT",
+    "STR"
+  ],
+  "STS": [
+    "STREETS"
+  ],
+  "SMT": [
+    "SUMMIT",
+    "SUMIT",
+    "SUMITT"
+  ],
+  "TER": [
+    "TERRACE",
+    "TERR"
+  ],
+  "TRWY": [
+    "THROUGHWAY"
+  ],
+  "TRCE": [
+    "TRACE",
+    "TRACES"
+  ],
+  "TRAK": [
+    "TRACK",
+    "TRACKS",
+    "TRK",
+    "TRKS"
+  ],
+  "TRFY": [
+    "TRAFFICWAY"
+  ],
+  "TRL": [
+    "TRAIL",
+    "TRAILS",
+    "TRLS"
+  ],
+  "TRLR": [
+    "TRAILER",
+    "TRLRS"
+  ],
+  "TUNL": [
+    "TUNNEL",
+    "TUNEL",
+    "TUNLS",
+    "TUNNELS",
+    "TUNNL"
+  ],
+  "TPKE": [
+    "TURNPIKE",
+    "TRNPK",
+    "TURNPK"
+  ],
+  "UPAS": [
+    "UNDERPASS"
+  ],
+  "UN": [
+    "UNION"
+  ],
+  "UNS": [
+    "UNIONS"
+  ],
+  "VLY": [
+    "VALLEY",
+    "VALLY",
+    "VLLY"
+  ],
+  "VLYS": [
+    "VALLEYS"
+  ],
+  "VIA": [
+    "VIADUCT",
+    "VDCT",
+    "VIADCT"
+  ],
+  "VW": [
+    "VIEW"
+  ],
+  "VWS": [
+    "VIEWS"
+  ],
+  "VLG": [
+    "VILLAGE",
+    "VILL",
+    "VILLAG",
+    "VILLG",
+    "VILLIAGE"
+  ],
+  "VLGS": [
+    "VILLAGES"
+  ],
+  "VL": [
+    "VILLE"
+  ],
+  "VIS": [
+    "VISTA",
+    "VIST",
+    "VST",
+    "VSTA"
+  ],
+  "WALK": [
+    "WALKS"
+  ],
+  "WALL": [
+    "WALL"
+  ],
+  "WAY": [
+    "WY"
+  ],
+  "WAYS": [
+    "WAYS"
+  ],
+  "WL": [
+    "WELL"
+  ],
+  "WLS": [
+    "WELLS"
+  ]
+}
